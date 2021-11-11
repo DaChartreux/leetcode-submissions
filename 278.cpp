@@ -1,5 +1,4 @@
-// 278. First Bad Version
-// 64. Minimum Path Sum
+// https://leetcode.com/problems/first-bad-version/
 
 #include <bits/stdc++.h>
 using namespace std;

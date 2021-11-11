@@ -1,6 +1,5 @@
-// 704. Binary Search
+// https://leetcode.com/problems/binary-search/
 
-// 64. Minimum Path Sum
 #include <bits/stdc++.h>
 using namespace std;
 

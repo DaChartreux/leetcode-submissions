@@ -1,6 +1,5 @@
-// 746. Min Cost Climbing Stairs
+// https://leetcode.com/problems/min-cost-climbing-stairs/
 
-// 64. Minimum Path Sum
 #include <bits/stdc++.h>
 using namespace std;
 
