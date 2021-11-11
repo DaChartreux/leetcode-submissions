@@ -1,5 +1,9 @@
 // 746. Min Cost Climbing Stairs
 
+// 64. Minimum Path Sum
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
  public:
   int minCostClimbingStairs(vector<int>& cost) {

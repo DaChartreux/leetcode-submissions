@@ -1,5 +1,9 @@
 // 704. Binary Search
 
+// 64. Minimum Path Sum
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
  public:
   int search(vector<int>& nums, int target) {
